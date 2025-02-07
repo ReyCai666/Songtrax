@@ -1,0 +1,24 @@
+My Platform: iOS
+
+Note that I have removed the songtrax_mobile/ios/Pods folder suggested by a tutor Alex (detail on ed private post #798) because it was too large, node_modules is also removed, so please run `pod install` before marking, sorry for any inconvenience.
+ 
+I am developing with pure react native, NOT EXPO. 
+
+To help you mark, here are some points on the map you can test with:
+
+Your current starting point:
+Within circle and have songs: -27.4959128036638130    153.0136956701559500
+
+Others:
+Within circle but does not have song: -27.50193288155433   153.006188481462
+
+Within circle and have song: -27.4979522415886900    153.0180059259738500
+
+Outside circle: -27.49763627229212     153.02271460802842
+
+
+sometimes on the profile page, if the keyboard is not popping up itself, you can press cmd + k to manually pop up.
+Sometimes if the play music button does not make any sound, you can fix this by click on the simulator (iPhone SE) side mute button.
+
+
+Thank you very much for your time :)
